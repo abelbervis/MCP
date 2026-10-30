@@ -1,0 +1,6 @@
+[project]
+name = "mcp-v1"
+version = "0.1.0"
+description = "Aprendiendo MCP en Python, paso a paso"
+requires-python = ">=3.12"
+dependencies = ["mcp[cli]>=2.3.0"]
